@@ -5,4 +5,4 @@
 - 🔭 Estou estudando no ALURA
 - 🌱 Além disso, estou aprendendo o JavaScript!
 - 👯 Aqui terá foco em organização e compartilhamento dos meus projetos realizados
-- ![![image](https://github.com/wildflower-blvd/Wildflower-blvd/assets/169568964/aa3f085d-fead-45c5-88a3-4bf38ce71726)](link)
+- ![![lana-del-rey-kiss](https://github.com/wildflower-blvd/Wildflower-blvd/assets/169568964/94d66981-5962-4ff2-a212-e866509f8b85)](link)
